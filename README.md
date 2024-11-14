@@ -1,40 +1,40 @@
 # "Machine Learning Program at C-MORE, University of Toronto."
 토론토 대학교 Maintenance Optimization and Reliability Engineering 센터에서 머신 러닝 프로그램을 이수하였습니다.
 
-## 1️⃣ MLcmore2023 일정
+## 1️⃣ MLcmore2023 일정 (2023-08-07 ~ 2023-08-18)
 
 | Session | Lecture                          | Lab (up to 2 hours)                   | TA    |
 | ------- | -------------------------------- | ------------------------------------- | ----- |
-| D1-M    | 1. Introduction to AI and ML     | 1. Colab setup                        | Bruce |
-|         | 2. Steps in ML project           | 2. Python refresh                     |       |
-|         |                                  | 3. Visualization: t-SNE              |       |
-| D1-A    | 1. Data preprocessing & EDA      | 1. Data prep: scaling, normalization, imputation | Bruce |
-|         | 2. Performance evaluation        | 2. Feature selection                  |       |
-|         |                                  | 3. Model evaluation: classification, regression |       |
-| D2-M    | 1. Model training                | 1. Model tune up                      | Bruce |
-|         |                                  | 2. Bagging and Boosting               |       |
-|         |                                  | 3. Supply chain example               |       |
-| D2-A    | 1. Supervised learning           | 1. Supervised learning                | Ramy  |
-| D3-M    | 1. Supervised learning           | 1. Supervised learning                | Nathan, Ramy |
-| D3-A    | 1. Supervised learning           | 1. Supervised learning                | Ramy  |
-| D4-M    | 1. Deep learning                 | 1. Deep learning                      | Nathan, Ramy |
-| D4-A    | 1. Deep learning                 | 1. Deep learning                      | Ramy  |
-| D5-M    | 1. Deep learning                 | 1. Deep learning                      | Nathan, Ramy |
+| D1-M    | [1. Introduction to AI and ML](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/0.%20Intro%20to%20ML.pdf)     | [1. Colab setup](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day1_am_morning/D1-M.ipynb)                        | Bruce |
+|         | [2. Steps in ML project](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/0.%20Intro%20to%20ML.pdf)           | [2. Python refresh](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day1_am_morning/D1-M.ipynb)                     |       |
+|         |                                  | [3. Visualization: t-SNE](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day1_am_morning/D1-M.ipynb)              |       |
+| D1-A    | [1. Data preprocessing & EDA](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/0.%20Intro%20to%20ML.pdf)      | [1. Data prep: scaling, normalization, imputation](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day1_pm_afternoon/D1-A.ipynb) | Bruce |
+|         | [2. Performance evaluation](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/0.%20Intro%20to%20ML.pdf)        | [2. Feature selection](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day1_pm_afternoon/D1-A.ipynb)                  |       |
+|         |                                  | [3. Model evaluation: classification, regression](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day1_pm_afternoon/D1-A.ipynb) |       |
+| D2-M    | [1. Model training](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/0.%20Intro%20to%20ML.pdf)                | [1. Model tune up](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day2_am_morning/D2-M.ipynb)                      | Bruce |
+|         |                                  | [2. Bagging and Boosting](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day2_am_morning/D2-M.ipynb)               |       |
+|         |                                  | [3. Supply chain example](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day2_am_morning/D2-M.ipynb)               |       |
+| D2-A    | [1. Supervised learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/1.%20Machine%20Learning.pdf)           | [1. Supervised learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/tree/main/MLcmore2023-main/day2_pm_afternoon)               | Ramy  |
+| D3-M    | [1. Supervised learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/1.%20Machine%20Learning.pdf)           | [1. Supervised learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/tree/main/MLcmore2023-main/day3_am_morning)                | Nathan, Ramy |
+| D3-A    | [1. Supervised learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/1.%20Machine%20Learning.pdf)           | [1. Supervised learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/tree/main/MLcmore2023-main/day3_pm_afternoon)                | Ramy  |
+| D4-M    | [1. Deep learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/3.%20Deep%20Learning.pdf)                 | [1. Deep learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day4_am_morning/neural-network-demo.ipynb)                      | Nathan, Ramy |
+| D4-A    | [1. Deep learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/3.%20Deep%20Learning.pdf)                 | [1. Deep learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/tree/main/MLcmore2023-main/day4_pm_afternoon)                      | Ramy  |
+| D5-M    | [1. Deep learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/3.%20Deep%20Learning.pdf)                 | [1. Deep learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day5_am_morning/rnn.ipynb)                      | Nathan, Ramy |
 | D5-A    | Evaluation                       |                                      | Ramy  |
-| D6-M    | 1. Unsupervised learning         | 1. PCA                                | Ramy  |
-|         |                                  | 2. K-mean and cluster # optimization (elbow method) |       |
-| D6-A    | 1. Unsupervised learning         | 1. Hierarchical clustering            | Ramy  |
-|         |                                  | 2. Soft-clustering (expectation maximization) |       |
-| D7-M    | 1. Markov decision process       | 1. Standard methods for MDP such as PI and VI | Matin |
+| D6-M    | [1. Unsupervised learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/2.%20ML-Unsupervised.pdf)         | [1. PCA](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day6_am_morning/pca.ipynb)                                | Ramy  |
+|         |                                  | [2. K-mean and cluster # optimization (elbow method)](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day6_am_morning/kmeans-demo.ipynb) |       |
+| D6-A    | [1. Unsupervised learning](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/2.%20ML-Unsupervised.pdf)         | [1. Hierarchical clustering](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day6_pm_afternoon/Hierarchial-clustering.ipynb)            | Ramy  |
+|         |                                  | [2. Soft-clustering (expectation maximization)](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day6_pm_afternoon/gmm-demo.ipynb) |       |
+| D7-M    | [1. Markov decision process](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/4.%20RL1.pdf)       | [1. Standard methods for MDP such as PI and VI](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day7_am_morning/D7_M_Dynamic_Programming.ipynb) | Matin |
 |         |                                  | • Formulation: transition probabilities, reward, … |       |
 |         |                                  | • Policy evaluation                   |       |
-| D7-A    | 1. MDP                          | 1. PI and VI                          | Matin |
-|         | 2. Monte Carlo method            | 2. Monte Carlo method                  |       |
+| D7-A    | [1. MDP](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/4.%20RL1.pdf)                          | [1. PI and VI](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/tree/main/MLcmore2023-main/day7_pm_afternoon)                          | Matin |
+|         | [2. Monte Carlo method](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/4.%20RL1.pdf)            | [2. Monte Carlo method](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day7_pm_afternoon/D7_A_Monte_Carlo_Methods.ipynb)                  |       |
 |         |                                  | • Return computation                  |       |
 |         |                                  | • Generalized Policy Iteration        |       |
-| D8-M    | 1. Tabular RL                   | 1. Tabular RL: Q-learning, SARSA       | Matin |
-| D8-A    | 1. Deep RL                      | 1. Deep RL: DQN and others            | Matin |
-| D9-M    | 1. Policy optimization           | 1. Policy optimization: REINFORCE, DPG, DDPG | Matin |
-| D9-A    | 1. Model-based RL, MARL          | 1. Dyna-Q, MARL                       | Matin |
-| D10-M   | 2. RL for Applications           | 1. DQN for optimal maintenance, Sim2Real for robotic control | Matin |
+| D8-M    | [1. Tabular RL](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/5.%20RL2.pdf)                   | [1. Tabular RL: Q-learning, SARSA](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day8_am_morning/D8_M_Tabular_RL.ipynb)       | Matin |
+| D8-A    | [1. Deep RL](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/5.%20RL2.pdf)                      | [1. Deep RL: DQN and others](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day8_pm_afternoon/DQN_DDQN.ipynb)            | Matin |
+| D9-M    | [1. Policy optimization](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/5.%20RL2.pdf)           | [1. Policy optimization: REINFORCE, DPG, DDPG](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day9_am_morning/D9_Morning_REINFORCE.ipynb) | Matin |
+| D9-A    | [1. Model-based RL, MARL](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/5.%20RL2.pdf)          | [1. Dyna-Q, MARL](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day9_pm_afternoon/D9_A_Dyna_Q.ipynb)                       | Matin |
+| D10-M   | [2. RL for Applications](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/Lecture%20Materials/5.%20RL2.pdf)           | [1. DQN for optimal maintenance, Sim2Real for robotic control](https://github.com/Jugahy/Machine_Learning_Program_at_the_University_of_Toronto/blob/main/MLcmore2023-main/day10_am_morning/InvaderDefenderEnv_MinimaxQ.ipynb) | Matin |
 | D10-A   | Evaluation                       |                                      | Matin |
