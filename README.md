@@ -1,7 +1,28 @@
 # "Machine Learning Program at C-MORE, University of Toronto."
-토론토 대학교 Maintenance Optimization and Reliability Engineering 센터에서 머신 러닝 프로그램을 이수하였습니다.
+토론토 대학교 Maintenance Optimization and Reliability Engineering 센터에서 머신 러닝 프로그램을 이수하였습니다.<br/>
+Completed a Machine Learning Program at the Centre for Maintenance Optimization and Reliability Engineering, University of Toronto.
 
-## 1️⃣ MLcmore2023 일정 (2023-08-07 ~ 2023-08-18)
+
+### Table of contents 
+
+1. [Overview](#1️⃣-overview)
+2. [Process](#2️⃣-process)
+
+   
+## 1️⃣ Overview
+
+### 1-1. Test Results
+인공지능에서 주로 사용하는 라이브러리 부터 Machine Learning, Deep Learning, Reinforce Learning의 핵심이라고 할 수 있는 부분들을 공부할 수 있었습니다. 총 2주 동안 진행된 프로그램이며 매주 금요일 오후에는 그 주에 배운 내용으로 테스트를 진행하였습니다. 문제가 영어로 되어 문제를 이해하기 쉽지 않았고 객관식 뿐 아니라 코딩을 해야하는 문제도 있어 pass를 받지 못할까 걱정했지만 다행히 week 1 evaluation 같은 경우 pass를 받고 week 2 evaluation에서는 객관식 40문제 중 36문제를 맞추고 코딩 문제에서는 7문제 중 5문제를 맞춰 두 주 모두 pass 받을 수 있었습니다.
+
+![image](https://github.com/user-attachments/assets/3c72dfce-e396-4ac6-a496-d7e8b7a4ada0)
+![image](https://github.com/user-attachments/assets/50ba0fcb-d442-482f-8d08-595c7e6cc642)
+
+### 1-2. Certificate
+![image](https://github.com/user-attachments/assets/7af4fe20-16d8-45e5-b3a8-d389c41eaa4b)
+
+
+## 2️⃣ Process
+### MLcmore2023 과정 (2023-08-07 ~ 2023-08-18)
 
 | Session | Lecture                          | Lab (up to 2 hours)                   | TA    |
 | ------- | -------------------------------- | ------------------------------------- | ----- |
